@@ -1,0 +1,10 @@
+{
+  "name": "Good Health VHV",
+  "description": "แอปพลิเคชันดูแลสุขภาพชุมชนสำหรับผู้ป่วย/ผู้สูงอายุ ผู้ดูแล และ อสม.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
